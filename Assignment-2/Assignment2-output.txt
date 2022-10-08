@@ -1,0 +1,3 @@
+This is a test.
+Corrected Text :: His is a test.
+Text in Spanish :: C'est un test.Exiting
